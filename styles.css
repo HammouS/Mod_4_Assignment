@@ -1,0 +1,31 @@
+/* Styles for weather forecast */
+.weather-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 1000px;
+  }
+  
+  .city-name {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .weather-info {
+    margin-top: 5px;
+  }
+  
+  body {
+    background-color:rgb(184, 236, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Set the height of the body to the full viewport height */
+    flex-direction:column;
+  }
+  h1{
+    margin-top: 10px;
+  }
+
+  
